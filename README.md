@@ -14,6 +14,7 @@ Browse [here](http://carsgqlapi.herokuapp.com/graphql/) and write queries/mutati
 Also supports GraphQL Voyager at [this endpoint](http://carsgqlapi.herokuapp.com/ui/voyager).
 <br />
 Check this out!
+![Banana-cake-pop](https://raw.githubusercontent.com/ptakpiotr/carsgql/master/banana.png)
 
 ## Technologies
 * .NET 5
